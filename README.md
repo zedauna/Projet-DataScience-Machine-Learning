@@ -41,5 +41,5 @@
    ## train- test
    ## encodage, imputation et nettoyage (Pretraitement / Prepossecing)
    ## Modelisation
-   ## Precision de la qalité
+   ## Precision de la qualité
    ## Matrice de confusion
