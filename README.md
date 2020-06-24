@@ -26,8 +26,7 @@
   ## Analyse plus détaillée  
   
   - **Relation Variables / Variables** :     
-  - **Relation quanti * quanti **         
-  - blood_data / blood_data : certaines variables sont tres corrélées : +0.9 (a suveiller plus tard)              
+  - **Relation quanti * quanti **         - blood_data / blood_data : certaines variables sont tres corrélées : +0.9 (a suveiller plus tard)              
   - **Relation quanti * quali **         - blood_data / age : tres faible corrélation entre age et taux sanguins             
   - **Relation quali * quali **          - viral / viral : influenza rapid test donne de mauvais résultats, il fauda peut-etre la laisser tomber      
   - relation maladie / blood data : Les taux sanguins entre malades et covid-19 sont différents       
@@ -38,3 +37,8 @@
   - H0 = Les taux moyens sont ÉGAUX chez les individus positifs et négatifs  - Les individus atteints d'une quelconque maladie ont des taux significativement différents  
   
   # 2. Machine Learning (ML) 
+    ## train- test
+    ## encodage, imputation et nettoyage (Pretraitement / Prepossecing)
+    ## Modelisation
+    ## Precision de la qaulité
+    ## Matrice de confusion
