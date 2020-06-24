@@ -1,5 +1,10 @@
 # Projet-DataScience-Machine-Learning
-# 1. Exploratory Data Analysis (EDA)  ## Objectif : - Comprendre du mieux possible nos données - Développer une premiere stratégie de modélisation    
+# 1. Exploratory Data Analysis (EDA)  
+
+## Objectif : 
+- Comprendre du mieux possible nos données 
+- Développer une premiere stratégie de modélisation   
+
 #### Analyse de la forme   
 - **variable target (variable à expliquer)** : SARS-Cov-2 exam result  
 - **linges et colonnes** :5644, 111   
@@ -30,4 +35,6 @@
   - relation hospitalisation / blood : intéressant dans le cas ou on voudrait prédire dans quelle service un patient devrait aller   
   - **NaN analyse** : viral : 1350(92/8), blood : 600(87/13), both : 90  ### hypotheses nulle (H0):  
   - Les individus atteints du covid-19 ont des taux de Leukocytes, Monocytes, Platelets significativement différents    
-  - H0 = Les taux moyens sont ÉGAUX chez les individus positifs et négatifs  - Les individus atteints d'une quelconque maladie ont des taux significativement différents       
+  - H0 = Les taux moyens sont ÉGAUX chez les individus positifs et négatifs  - Les individus atteints d'une quelconque maladie ont des taux significativement différents  
+  
+  # 2. Machine Learning (ML) 
