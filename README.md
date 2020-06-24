@@ -37,8 +37,9 @@
   - H0 = Les taux moyens sont ÉGAUX chez les individus positifs et négatifs  - Les individus atteints d'une quelconque maladie ont des taux significativement différents  
   
   # 2. Machine Learning (ML) 
-    ## train- test
-    ## encodage, imputation et nettoyage (Pretraitement / Prepossecing)
-    ## Modelisation
-    ## Precision de la qaulité
-    ## Matrice de confusion
+  
+   ## train- test
+   ## encodage, imputation et nettoyage (Pretraitement / Prepossecing)
+   ## Modelisation
+   ## Precision de la qaulité
+   ## Matrice de confusion
